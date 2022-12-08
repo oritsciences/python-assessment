@@ -39,17 +39,9 @@ The data structure is as follows, with five keys for each item:
 
 To complete the assessment please clone the repository.
 
-```
-git@github.com:RobDWaller/python-assessment.git
-```
+Write your code to complete the tasks and then store your code in a public git repository on GitHub or equivalent service.
 
-Write your code to complete the tasks and then store your code in a public git repository on GitHub or equivalent service. Alternatively zip the code up and submit via email.
-
-You should not spend more than one hour completing this assessment. You will not be judged based on how many questions you answer but how well you answer each question.
-
-### Note to Managers and Recruiters
-
-This assessment should be used as part of an interview process. Developers who complete it deserve feedback on how they have performed and how they might improve. It should not be used as a filtering tool. 
+You should not spend more than 2 hours completing this assessment. You will not be judged based on how many questions you answer but how well you answer each question.
 
 ## Tasks
 
@@ -127,9 +119,3 @@ Add up all the value keys in the list and return an integer.
     }
 ]
 ```
-
-## Author
-
-[@RobDWaller](https://twitter.com/RobDWaller)
-
-If you have any questions feel free to message me on Twitter.
